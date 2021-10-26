@@ -19,6 +19,10 @@ function DataView(props) {
               <h2 className="text-data">{props.renterCost}</h2>
               <h3 className="text-label">Annual Housing Cost</h3>
             </div>
+          {/* Add new divs below this line */}
+
+
+
           </div>
           <div className="data-view-column right">
             <div className="text">
@@ -28,6 +32,10 @@ function DataView(props) {
               <h2 className="text-data">{}</h2>
               <h3 className="text-label">Annual Housing Cost</h3>
             </div>
+            {/* Add new divs below this line */}
+
+
+
           </div>
         </div>
       </div>
